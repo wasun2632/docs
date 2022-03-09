@@ -1,4 +1,5 @@
 ---
+
 title: Customizing your project (beta) views
 intro: 'Display the information you need by changing the layout, grouping, sorting, and filters in your project.'
 allowTitleToDifferFromFilename: true
